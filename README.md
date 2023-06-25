@@ -1,17 +1,17 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Performance Audit 
 
-Doe een Performance Audit test op een bestaande website en rapporteer daar over.
+Opdracht: Doe een Performance Audit op een bestaande website en documenteer je bevindingen.
+
+## Introductie
+We kregen de opdracht een Performance Audit te doen op een bestaande website. Ik gebruikte hierbij PageSpeed Insights om de audit (test/beoordeling) te doen en documenteerde zowel de bevindingen als potentiële verbeterpunten.
 
 ## Titel Website
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+Ik heb ervoor gekozen de audit te doen op mijn eigen website in plaats van een overige generieke website. Ik doe dit omdat ik het gevoel heb zo meer te leren van de feedback die ik zal krijgen. Deze verbeterpunten zullen dan ook echt toegepast kunnen worden in plaats van dat ik een hele audit doe op een andere website die er niks mee gaat doen. De website waarop ik de audit ga doen is mijn recentste website voor Visual Thinking. Deze website is [hier](https://visualthinking.cyclic.app/) te vinden.
 
-Toon een screenshot van de performance test.
+![image](https://github.com/kosterm14/performance-matters-performance-audit/assets/61830362/47e2049c-6ec4-4c8a-ae5c-7a8ce4729d3e)
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
-
+Een uitgebreide rapportage van mijn audit bevindingen is [hier](https://github.com/kosterm14/performance-matters-performance-audit/wiki/Audit) te vinden
 
 ## Licentie
 
